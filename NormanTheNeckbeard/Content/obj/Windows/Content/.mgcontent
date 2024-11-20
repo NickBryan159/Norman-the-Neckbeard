@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/arial20.spritefont</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Background_Brick.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Basic katana.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Begin_Button.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Brick Wall.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Chris (2).png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Congrats.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Essence_of_the_Goddess.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Menu.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Mouse Cursor.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Mushroom.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Next_Level.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Norman Spritesheet.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Norman.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Pillow-Chan.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/return.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Start Button.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Title.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/Try_again.png</File>
+    <File>C:/Users/nickb/Desktop/Norman Jawn/NormanTheNeckbeard/Content/unnamed.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

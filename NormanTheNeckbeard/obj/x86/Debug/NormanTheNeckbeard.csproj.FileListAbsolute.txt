@@ -1,0 +1,42 @@
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\arial20.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Basic katana.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Brick Wall.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Mushroom.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Norman.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\NormanTheNeckbeard.exe
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\NormanTheNeckbeard.pdb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\obj\x86\Debug\NormanTheNeckbeard.csprojAssemblyReference.cache
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\obj\x86\Debug\NormanTheNeckbeard.csproj.CopyComplete
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\obj\x86\Debug\NormanTheNeckbeard.exe
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\obj\x86\Debug\NormanTheNeckbeard.pdb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Pillow-Chan.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Norman Spritesheet.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Background_Brick.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\unnamed.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Mouse Cursor.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Start Button.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Chris (2).xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Title.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Begin_Button.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Menu.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\return.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Try_again.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Next_Level.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Congrats.xnb
+C:\Users\nickb\Desktop\Norman Jawn\NormanTheNeckbeard\bin\Windows\x86\Debug\Content\Essence_of_the_Goddess.xnb

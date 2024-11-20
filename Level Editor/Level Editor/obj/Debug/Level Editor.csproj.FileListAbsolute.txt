@@ -1,0 +1,70 @@
+E:\GDAPS\Homework\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+E:\GDAPS\Homework\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+E:\GDAPS\Homework\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+E:\GDAPS\Homework\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+E:\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+E:\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+E:\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+E:\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+E:\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+E:\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+E:\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+E:\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+E:\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+E:\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+E:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+F:\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\nickb\OneDrive\Documents\My Docs\School\2019 - 2020\Semester 2\GDAPS 2 Electric Boogaloo\Game\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\nickb\Desktop\Level Editor - Copy\Level Editor\obj\Debug\Level Editor.pdb
+C:\Users\nickb\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe.config
+C:\Users\nickb\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.exe
+C:\Users\nickb\Desktop\Level Editor\Level Editor\bin\Debug\Level Editor.pdb
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csprojAssemblyReference.cache
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.EditorForm.resources
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.LevelEditor.resources
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level_Editor.Properties.Resources.resources
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.csproj.GenerateResource.cache
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.exe
+C:\Users\nickb\Desktop\Level Editor\Level Editor\obj\Debug\Level Editor.pdb
